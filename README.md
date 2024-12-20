@@ -6,11 +6,11 @@ _A powerful and simple text transformation web application built with Django._
 ## ✨ Features  
 
 🎯 **Text Transformations**:  
-- 🔹 **Remove Punctuations**: Easily clean your text by removing punctuation marks.  
-- 🔹 **Convert to UPPERCASE**: Transform your text into uppercase effortlessly.  
-- 🔹 **Remove New Lines**: Eliminate unwanted line breaks for a cleaner layout.  
-- 🔹 **Remove Extra Spaces**: Say goodbye to redundant whitespaces.  
-- 🔹 **Count Frequency of Letters**: Analyze the frequency of each letter in your text.  
+🔹 **Remove Punctuations**: Easily clean your text by removing punctuation marks.  
+🔹 **Convert to UPPERCASE**: Transform your text into uppercase effortlessly.  
+🔹 **Remove New Lines**: Eliminate unwanted line breaks for a cleaner layout.  
+🔹 **Remove Extra Spaces**: Say goodbye to redundant whitespaces.  
+🔹 **Count Frequency of Letters**: Analyze the frequency of each letter in your text.  
 
 ---
 

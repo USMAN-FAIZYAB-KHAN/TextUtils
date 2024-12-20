@@ -6,11 +6,11 @@ _A powerful and simple text transformation web application built with Django._
 ## ✨ Features  
 
 🎯 **Text Transformations**:  
-🔹 **Remove Punctuations**: Easily clean your text by removing punctuation marks.  
-🔹 **Convert to UPPERCASE**: Transform your text into uppercase effortlessly.  
-🔹 **Remove New Lines**: Eliminate unwanted line breaks for a cleaner layout.  
-🔹 **Remove Extra Spaces**: Say goodbye to redundant whitespaces.  
-🔹 **Count Frequency of Letters**: Analyze the frequency of each letter in your text.  
+- **Remove Punctuations**: Easily clean your text by removing punctuation marks.  
+- **Convert to UPPERCASE**: Transform your text into uppercase effortlessly.  
+- **Remove New Lines**: Eliminate unwanted line breaks for a cleaner layout.  
+- **Remove Extra Spaces**: Say goodbye to redundant whitespaces.  
+- **Count Frequency of Letters**: Analyze the frequency of each letter in your text.  
 
 ---
 
@@ -21,8 +21,8 @@ Follow these simple steps to set up **TextUtils** on your local machine.
 ### ✅ Prerequisites  
 
 Ensure you have the following installed:  
-- **Python** (version 3.6 or above)  
-- **Django** (version 4.0 or above)  
+- **Python** 
+- **Django** 
 
 ---
 
@@ -36,7 +36,7 @@ Ensure you have the following installed:
    ```
 
 2. **Install Django**  
-   Use `pip` to install Django:  
+   Use `pip` to install Django if not already installed:  
    ```bash
    pip install django
    ```
@@ -57,11 +57,7 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots  
 
-### 🏠 Home Page  
-![Home Page Screenshot](path/to/homepage_screenshot.png)  
 
-### ⚙️ Features in Action  
-![Features Screenshot](path/to/features_screenshot.png)  
 
 ---
 
@@ -74,10 +70,4 @@ Ensure you have the following installed:
    - **Remove New Lines**  
    - **Remove Extra Spaces**  
    - **Count Frequency of Letters**  
-3. Click **Analyze** to see the results instantly!  
-
----
-
-## 📄 License  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+3. Click **Analyze** to see the results instantly!   

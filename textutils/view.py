@@ -1,4 +1,3 @@
-# I have created this file
 from os import remove
 from urllib import request
 from django.http import HttpResponse

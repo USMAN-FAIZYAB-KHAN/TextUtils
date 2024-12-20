@@ -57,7 +57,17 @@ Ensure you have the following installed:
 
 ## 📸 Screenshots  
 
+![Home Page Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/homepage.png)  
 
+### 🔤 UPPERCASE Transformation  
+Easily transform your text to UPPERCASE.  
+- **Input Text**:
+  
+  ![UPPERCASE Result Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/uppercase.png) 
+
+- **Result**:
+  
+  ![UPPERCASE Input Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/uppercase-result.png)  
 
 ---
 

@@ -27,7 +27,7 @@ Follow these steps to set up and run TextUtils on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TextUtils.git
+   git clone https://github.com/USMAN-FAIZYAB-KHAN/TextUtils.git
    cd TextUtils
 2. Install Django:
    ```bash

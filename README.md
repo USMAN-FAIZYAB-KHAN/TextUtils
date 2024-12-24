@@ -18,16 +18,6 @@ _A powerful and simple text transformation web application built with Django._
 
 Follow these simple steps to set up **TextUtils** on your local machine.
 
-### ✅ Prerequisites  
-
-Ensure you have the following installed:  
-- **Python** 
-- **Django** 
-
----
-
-### 🔧 Installation  
-
 1. **Clone the Repository**
    
    Start by cloning the project to your local machine:
@@ -61,6 +51,14 @@ Ensure you have the following installed:
    http://127.0.0.1:8000
    ```
    
+---
+
+## 📦 Dependencies
+
+The project is built with the following dependency:
+
+- **Django**: Backend framework.
+
 ---
 
 ## 📸 Screenshots  

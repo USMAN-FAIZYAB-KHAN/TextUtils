@@ -28,27 +28,35 @@ Ensure you have the following installed:
 
 ### 🔧 Installation  
 
-1. **Clone the Repository**  
-   Start by cloning the project to your local machine:  
+1. **Clone the Repository**
+   
+   Start by cloning the project to your local machine:
+    
    ```bash
    git clone https://github.com/USMAN-FAIZYAB-KHAN/TextUtils.git
    cd TextUtils
    ```
 
-2. **Install Django**  
-   Use `pip` to install Django if not already installed:  
+3. **Install Django**
+   
+   Use `pip` to install Django if not already installed:
+   
    ```bash
    pip install django
    ```
 
-3. **Run the Development Server**  
-   Start the application with the following command:  
+4. **Run the Development Server**
+   
+   Start the application with the following command:
+   
    ```bash
    python manage.py runserver
    ```
 
-4. **Access the Application**  
-   Open your browser and navigate to:  
+6. **Access the Application**
+   
+   Open your browser and navigate to:
+    
    ```
    http://127.0.0.1:8000
    ```

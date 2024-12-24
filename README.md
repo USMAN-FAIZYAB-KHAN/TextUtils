@@ -63,17 +63,17 @@ The project is built with the following dependency:
 
 ## 📸 Screenshots  
 
-![Home Page Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/homepage.png)  
+![Home Page Screenshot](./Screenshots/homepage.png)  
 
 ### 🔤 UPPERCASE Transformation  
 Easily transform your text to UPPERCASE.  
 - **Input Text**:
   
-  ![UPPERCASE Result Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/uppercase.png) 
+  ![UPPERCASE Result Screenshot](./Screenshots/uppercase.png) 
 
 - **Result**:
   
-  ![UPPERCASE Input Screenshot](https://github.com/USMAN-FAIZYAB-KHAN/TextUtils/blob/main/Screenshots/uppercase-result.png)  
+  ![UPPERCASE Input Screenshot](./Screenshots/uppercase-result.png)  
 
 ---
 
